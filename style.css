@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Valentine?</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>💖 Will you be my Valentine? 💖</h1>
+    <p>You make my heart go <strong>git commit -m "love"</strong> 😌</p>
+
+    <div class="buttons">
+      <button id="yesBtn">Yes 💕</button>
+      <button id="noBtn">No 🙃</button>
+    </div>
+
+    <h2 id="message"></h2>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
